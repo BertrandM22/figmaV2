@@ -25,9 +25,14 @@ Ce projet consiste à reproduire une œuvre de Piet Mondrian, célèbre pour ses
 ## 🛠️ Installation & Utilisation
 
 1. Cloner le dépôt :
-
+```
 git clone https://github.com/BertrandM22/figmaV2.git
+```
 
+<<<<<<< HEAD
 $
 
 2. Ouvrir le projet : Ouvre le fichier index.html dans ton navigateur préféré pour voir le projet.
+=======
+2. Ouvrir le projet : Ouvre le fichier index.html dans ton navigateur préféré pour voir le projet.
+>>>>>>> bebe96ccb9bcdf9465ac69bd3617a598f1880bd6
